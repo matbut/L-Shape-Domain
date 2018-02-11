@@ -12,6 +12,7 @@ https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain
 Author: Dr Maciej Paszynski 
 * Polish: 
 https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Description-Pl.pdf
+Translation: Unknown 
 
 ## Usage
 Online jupyter notebook viewer: 
