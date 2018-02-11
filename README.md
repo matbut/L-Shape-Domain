@@ -1,5 +1,5 @@
 # L-Shape-Domain
-Print heat transfer plot by Finie Element Method in L shape domain.
+Print heat transfer plot in L shape domain by Finie Element Method.
 
 ## Table of Contents
 - [Descriptions](#descriptions)
