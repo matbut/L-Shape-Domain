@@ -1,8 +1,6 @@
 # L-Shape-Domain
 Print heat transfer plot by Finie Element Method in L shape domain.
 
-![alt text](https://github.com/matbut/L-Shape-Domain/blob/master/img/plot.png)
-
 ## Table of Contents
 - [Descriptions](#descriptions)
 - [Usage](#usage)
@@ -15,6 +13,9 @@ Print heat transfer plot by Finie Element Method in L shape domain.
 ## Usage
 Specify number of partitions. 
 Number of samples to print plot default is 50.
+
+Plot for 10 partitons (more precisely it is for 300 partitions).
+![alt text](https://github.com/matbut/L-Shape-Domain/blob/master/img/plot.png)
 
 ## Author
 **Mateusz Buta**
