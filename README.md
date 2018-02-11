@@ -14,8 +14,7 @@ Author: Dr Maciej Paszynski
 https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Description-Pl.pdf
 
 ## Usage
-online jupyter notebook viewer: 
-
+Online jupyter notebook viewer: 
 http://nbviewer.jupyter.org/github/matbut/L-Shape-Domain/blob/master/L-Shape-Domain.ipynb
 
 In program specify number of partitions. 
