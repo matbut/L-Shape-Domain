@@ -7,11 +7,9 @@ Print heat transfer plot in L shape domain by Finie Element Method.
 - [Author](#author)
 
 ## Descriptions
-* English: [Pdf File](https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Descripion-Eng.pdf)
-
+* [English Pdf File](https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Descripion-Eng.pdf)
 Author: Dr Maciej Paszynski 
-* Polish: [Pdf File](https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Description-Pl.pdf)
-
+* [Polish Pdf File](https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Description-Pl.pdf)
 Translation: Unknown 
 
 ## Usage
