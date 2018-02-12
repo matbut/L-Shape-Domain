@@ -7,16 +7,13 @@ Print heat transfer plot in L shape domain by Finie Element Method.
 - [Author](#author)
 
 ## Descriptions
-* English: 
-https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Descripion-Eng.pdf
+* English: [Pdf File](https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Descripion-Eng.pdf)
 Author: Dr Maciej Paszynski 
-* Polish: 
-https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Description-Pl.pdf
+* Polish: [Pdf File](https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Description-Pl.pdf)
 Translation: Unknown 
 
 ## Usage
-Online jupyter notebook viewer: 
-http://nbviewer.jupyter.org/github/matbut/L-Shape-Domain/blob/master/L-Shape-Domain.ipynb
+Run program on [Online jupyter notebook viewer](http://nbviewer.jupyter.org/github/matbut/L-Shape-Domain/blob/master/L-Shape-Domain.ipynb)
 
 In program specify number of partitions. 
 Number of samples to print plot default is 50.
