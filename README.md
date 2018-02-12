@@ -1,5 +1,5 @@
 # L-Shape-Domain
-Print heat transfer plot by Finie Element Method in L shape domain.
+Print heat transfer plot in L shape domain by Finie Element Method.
 
 ## Table of Contents
 - [Descriptions](#descriptions)
@@ -7,11 +7,15 @@ Print heat transfer plot by Finie Element Method in L shape domain.
 - [Author](#author)
 
 ## Descriptions
-* Polish: https://github.com/matbut/L-Shape-Domain/blob/master/L-Shape-Domain-Description-Pl.doc
-* English: https://github.com/matbut/L-Shape-Domain/blob/master/L-Shape-Domain-Descripion-Eng.doc
+* English: 
+https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Descripion-Eng.pdf
+Author: Dr Maciej Paszynski 
+* Polish: 
+https://github.com/matbut/L-Shape-Domain/blob/master/descriptions/L-Shape-Domain-Description-Pl.pdf
+Translation: Unknown 
 
 ## Usage
-online jupyter notebook viewer: 
+Online jupyter notebook viewer: 
 http://nbviewer.jupyter.org/github/matbut/L-Shape-Domain/blob/master/L-Shape-Domain.ipynb
 
 In program specify number of partitions. 
